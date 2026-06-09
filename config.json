@@ -128,6 +128,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "databases-and-sql",
+      "title": "Databases & SQL",
+      "description": "Learn database design and SQL with SQLite - CRUD operations, JOINs, and data persistence",
+      "path": "assignments/databases-and-sql",
+      "dueDate": "2026-06-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
