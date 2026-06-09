@@ -20,6 +20,48 @@
       ]
     },
     {
+      "id": "python-data-structures",
+      "title": "Data Structures in Python",
+      "description": "Lists, dictionaries, sets, and tuples - building a grade management system",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-05-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file I/O, and text manipulation",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-05-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-data-visualization",
+      "title": "Python Data Visualization",
+      "description": "Using matplotlib or plotly for charts and graphs",
+      "path": "assignments/python-data-visualization",
+      "dueDate": "2026-05-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
@@ -32,6 +74,34 @@
       "description": "Defining and using classes in Python",
       "path": "assignments/python-classes",
       "dueDate": "2026-05-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Creating web APIs using FastAPI framework - routing, validation, and JSON responses",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-06-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "statistics-with-python",
+      "title": "Statistics with Python",
+      "description": "Data analysis and statistical calculations using pandas and numpy",
+      "path": "assignments/statistics-with-python",
+      "dueDate": "2026-06-10",
       "attachments": [
         {
           "name": "Starter Code",
